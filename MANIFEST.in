@@ -1,0 +1,2 @@
+recursive-exclude jwcrypto/
+exclude .gitignore private_key.json public_key.json

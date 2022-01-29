@@ -1,0 +1,5 @@
+dist/
+*.egg-info
+jwcrypto/
+private_key.json
+public_key.json
