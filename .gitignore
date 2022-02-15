@@ -4,3 +4,4 @@ jwcrypto/
 private_key.json
 public_key.json
 build
+__pycache__/
